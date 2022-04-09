@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# secrets
+loca-gcloud-key.json
+api-key.txt
